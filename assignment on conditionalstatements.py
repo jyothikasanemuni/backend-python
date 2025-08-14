@@ -38,10 +38,11 @@ elif num<0:
 else:
     print("the number is odd")"""
 #ask the user age and suggest child if<13 teen if 13-19 adult if 20+
-age=int(input("enter your age:"))
+"""age=int(input("enter your age:"))
 if age <13:
     print("you're a child")
 elif 13<=age<=19:
     print("you're an teenager")
 else:
     print("you're an adult")
+"""
