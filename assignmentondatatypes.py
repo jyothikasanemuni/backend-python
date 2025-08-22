@@ -189,5 +189,3 @@ print(type(z))"""
 print(7>>1)  # 7 >> 1 = (by bits values if we shift 1 bit to right side) 2+1=3
 print(6<<2)  # 6 << 2 = (by bits values if we shift 2bits to left) 16+8=24"""
 
-
-

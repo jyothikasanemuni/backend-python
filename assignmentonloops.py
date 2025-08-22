@@ -79,8 +79,16 @@ while True:
         break
     total+=num
 print(total)
-    
-
-
-
+  
+#check the num is prime or not
+a=int(input("enter a num"))
+if a>1:
+    for i in range(2,a):
+        if a%i==0:
+            print("not prime")
+            break
+    else:
+        print("prime")
+else:
+    print("not prime")
 

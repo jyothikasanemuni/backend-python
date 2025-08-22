@@ -1,4 +1,5 @@
-#CASE CONVERSIONS INBUILT FUNCTIONS OF STRINGS#
+""#STRINGS BUILT IN FUNCTIONS
+#CASE CONVERSIONS INBUILT FUNCTIONS OF STRINGS
 a="Jyothika Sanemuni"
 a=a.lower()      #lower : converting the characters into lower (small alphabets)
 print("The lower string is:",a)
@@ -74,3 +75,5 @@ print(a)
 a="jyothika"
 a=a.index("b")   #valueerror: substring not found
 print(a)        # diff b/w find and index is if the character is not present in the find() it returns (-1) in  index() it returns value error.....
+
+
