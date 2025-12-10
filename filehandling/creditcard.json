@@ -1,0 +1,30 @@
+[
+    {
+        "username": "jyothika_sanemuni",
+        "password": "jyothika24@",
+        "ccnum": 232323,
+        "cclimit": 44600,
+        "outstanding": 400
+    },
+    {
+        "username": "prasanna_sanemuni",
+        "password": "prasanna12@",
+        "ccnum": 123123,
+        "cclimit": 50000,
+        "outstanding": 0
+    },
+    {
+        "username": "moulika_sanemuni",
+        "password": "moulika212@",
+        "ccnum": 987654,
+        "cclimit": 19600,
+        "outstanding": 400
+    },
+    {
+        "username": "anuradha_12",
+        "password": "anu!radha",
+        "ccnum": 123456,
+        "cclimit": 69100,
+        "outstanding": 900
+    }
+]
